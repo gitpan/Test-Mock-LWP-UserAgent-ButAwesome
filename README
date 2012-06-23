@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution Test-Mock-LWP-UserAgent-ButAwesome,
+version 0.001:
+
+  A mock LWP::UserAgent suitable for testing network calls
+
+This software is copyright (c) 2012 by Karen Etheridge.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
