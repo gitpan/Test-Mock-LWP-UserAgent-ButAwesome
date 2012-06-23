@@ -10,7 +10,6 @@ dist.ini
 lib/Test/Mock/LWP/UserAgent/ButAwesome.pm
 t/00-check-deps.t
 t/00-compile.t
-t/01-basic.t
 t/release-changes_has_content.t
 t/release-cpan-changes.t
 t/release-distmeta.t

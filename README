@@ -1,9 +1,9 @@
 
 
 This archive contains the distribution Test-Mock-LWP-UserAgent-ButAwesome,
-version 0.001:
+version 0.002:
 
-  A mock LWP::UserAgent suitable for testing network calls
+  Renamed to Test-LWP-UserAgent
 
 This software is copyright (c) 2012 by Karen Etheridge.
 
