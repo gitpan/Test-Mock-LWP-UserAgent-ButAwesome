@@ -1,8 +1,8 @@
 package Test::Mock::LWP::UserAgent::ButAwesome;
 {
-  $Test::Mock::LWP::UserAgent::ButAwesome::VERSION = '0.002';
+  $Test::Mock::LWP::UserAgent::ButAwesome::VERSION = '0.003';
 }
-# git description: v0.001-5-gf66bd56
+# git description: v0.002-1-g6b28b25
 
 
 use strict;
@@ -19,9 +19,9 @@ Test::Mock::LWP::Dispatch::ButAwesome - Renamed to Test::LWP::UserAgent
 
 =head1 DESCRIPTION
 
-Reanmed to L<Test::LWP::UserAgent>
+This module has been renamed to L<Test::LWP::UserAgent>.
 
-AUTHOR
+=head1 AUTHOR
 
 Karen Etheridge <ether@cpan.org>
 

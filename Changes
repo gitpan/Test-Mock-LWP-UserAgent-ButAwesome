@@ -1,5 +1,8 @@
 Revision history for Test-Mock-LWP-UserAgent-ButAwesome
 
+0.003     2012-06-23 17:27:08 PDT-0700 (Karen Etheridge)
+          - fix pod errors
+
 0.002     2012-06-23 09:37:31 PDT-0700 (Karen Etheridge)
           - renamed to Test::LWP::UserAgent (thanks, mst!)
 

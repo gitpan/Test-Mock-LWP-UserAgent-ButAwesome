@@ -22,7 +22,7 @@ requires:
 resources:
   homepage: https://github.com/karenetheridge/Test-Mock-LWP-UserAgent-ButAwesome
   repository: https://github.com/karenetheridge/Test-Mock-LWP-UserAgent-ButAwesome.git
-version: 0.002
+version: 0.003
 x_Dist_Zilla:
   plugins:
     -
